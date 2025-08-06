@@ -1,1 +1,2 @@
 # PRODIGY_SD_01
+# This repository contains the code for the PRODIGY_SD_01 project, which is a part of the PRODIGY project. The project aims to develop a system for generating and evaluating synthetic data for machine learning tasks.
