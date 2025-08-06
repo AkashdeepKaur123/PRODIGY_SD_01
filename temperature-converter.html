@@ -8,5 +8,19 @@
 </head>
 <body>
     <h1>🌡️ Temperature Converter</h1>
+    <h2>Enter Temperature:</h2>
+    <input type="number" id="tempValue" placeholder="Enter temperature" />
+
+    <h2>Select Unit:</h2>
+    <select id="tempUnit">
+        <option value="C">Celsius</option>
+        <option value="F">Fahrenheit</option>
+        <option value="K">Kelvin</option>
+    </select>
+
+    <button onclick="convertTemp()">Convert</button>
+
+    <div id="resultOutput">--</div>
+
 </body>
 </html>
